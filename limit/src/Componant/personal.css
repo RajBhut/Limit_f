@@ -1,0 +1,16 @@
+.message {
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  .my-message {
+    background-color: #caf0f8;
+    align-self: flex-end;
+  }
+  
+  .sender-message {
+    background-color: #90e0ef;
+    align-self: flex-start;
+  }

@@ -4,13 +4,14 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 import SocketComponent from './Componant/Socket'
+import Personal from './Componant/Personal'
 
 function App() {
 
 
   return (
     <>
-<SocketComponent/>
+<Personal/>
 
     </>
   )
